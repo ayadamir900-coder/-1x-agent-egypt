@@ -1,0 +1,42 @@
+# 1x Agent Egypt - llms.txt
+
+## Site Description (Arabic)
+هذا الموقع خدمة وكيل شحن وسحب مستقلة لحسابات 1xBet في مصر.
+الموقع يقدم خدمات: كود البرومو، التسجيل، تحميل التطبيق، الشحن، والسحب.
+
+## Site Description (English)
+1x Agent Egypt is an independent deposit/withdrawal agent service for 1xBet accounts in Egypt.
+The site provides: promo code, registration guide, app download, deposit, and withdrawal services.
+
+## Target Keywords (Arabic)
+- أفضل وكيل 1xBet في مصر
+- وكيل 1xBet مصر
+- كود 1xBet
+- برومو كود 1xBet
+- تسجيل 1xBet في مصر
+- تحميل 1xBet APK
+- تحميل 1xBet للايفون
+- شحن 1xBet فودافون كاش
+- شحن 1xBet انستاباي
+- سحب 1xBet في مصر
+- وكيل 1xBet تيليجرام
+
+## Target Keywords (English)
+- 1xBet agent Egypt
+- 1xBet promo code Egypt
+- 1xBet deposit Egypt
+- 1xBet withdrawal Egypt
+- 1xBet APK download
+
+## Pages
+- / : الرئيسية - أفضل وكيل 1xBet في مصر
+- /1xbet-code.html : كود البرومو XBET500
+- /1xbet-register.html : تسجيل 1xBet مصر
+- /1xbet-download.html : تحميل 1xBet APK والايفون
+- /1xbet-deposit.html : شحن 1xBet فودافون كاش وانستاباي
+- /1xbet-withdraw.html : سحب 1xBet مصر
+- /faq.html : الأسئلة الشائعة
+
+## Legal Notice
+This website is an independent agent service and not the official 1xBet website.
+For adults only. Please verify local laws before use.
